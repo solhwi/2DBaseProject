@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Define;
+using System;
 
 /// <summary>
 /// 물리 충돌이 가능한 충돌체에게 컴포넌트 그대로, 혹은 상속하여 적용합니다.
@@ -24,7 +25,7 @@ public class CollisionObject : MonoBehaviour
 
     public ENUM_TAG_TYPE tagType = ENUM_TAG_TYPE.Untagged;
     public ENUM_COLLIDER_TYPE colliderType;
-    public ENUM_RIGIDBODY_TYPE rigidbodyType = ENUM_RIGIDBODY_TYPE.Dynamic;
+    public ENUM_RIGIDBODY_TYPE rigidbodyType = ENUM_RIGIDBODY_TYPE.Static;
 
     public Transform Tr
     {
@@ -43,6 +44,14 @@ public class CollisionObject : MonoBehaviour
         get;
         private set;
     }
+
+    public event Action<Collision2D> onCollisionEnter = null;
+    public event Action<Collision2D> onCollisionStay = null;
+    public event Action<Collision2D> onCollisionExit = null;
+
+    public event Action<Collider2D> onTriggerEnter = null;
+    public event Action<Collider2D> onTriggerStay = null;
+    public event Action<Collider2D> onTriggerExit = null;
 
     public void ReplaceObject(Vector3 pos, Vector3 rot)
     {
@@ -63,13 +72,15 @@ public class CollisionObject : MonoBehaviour
         Tr.localScale = scale;
     }
 
-    public virtual void Init(ENUM_LAYER_TYPE layerType, ENUM_TAG_TYPE tagType, ENUM_RIGIDBODY_TYPE rigidbodyType)
+    public virtual void Init(ENUM_LAYER_TYPE layerType, ENUM_TAG_TYPE tagType, ENUM_RIGIDBODY_TYPE rigidbodyType, bool isTrigger = true)
     {
         this.layerType = layerType;
         this.tagType = tagType;
         this.rigidbodyType = rigidbodyType;
 
         Init();
+
+        Col.isTrigger = isTrigger;
     }
 
     private void Init()
@@ -105,16 +116,31 @@ public class CollisionObject : MonoBehaviour
 
     protected virtual void OnCollisionEnter2D(Collision2D collision)
     {
-
+        onCollisionEnter?.Invoke(collision);
     }
 
     protected virtual void OnCollisionStay2D(Collision2D collision)
     {
-
+        onCollisionStay?.Invoke(collision);
     }
 
     protected virtual void OnCollisionExit2D(Collision2D collision)
     {
+        onCollisionExit?.Invoke(collision);
+    }
 
+    protected virtual void OnTriggerEnter2D(Collider2D other)
+    {
+        onTriggerEnter?.Invoke(other);
+    }
+
+    protected virtual void OnTriggerStay2D(Collider2D other)
+    {
+        onTriggerStay?.Invoke(other);
+    }
+
+    protected virtual void OnTriggerExit2D(Collider2D other)
+    {
+        onTriggerExit?.Invoke(other);
     }
 }
