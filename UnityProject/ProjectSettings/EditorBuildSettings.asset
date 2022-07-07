@@ -5,24 +5,27 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Enter.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
-    path: Assets/Scenes/Battle.unity
-    guid: b2474ec471adfdd48925d167760c08c7
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/Login.unity
-    guid: 1934bcfab42963d41a9cf3a274cd1b3e
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/Lobby.unity
-    guid: 32215be63db17c04fba713155ec80750
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/WaitingRoom.unity
-    guid: 335159826c6b1f9469aca8f899931caa
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/Setting.unity
-    guid: b0161b8cf5e70354eb9171351e5c93bd
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2ea7383a0a8af431080e0aa251ee7115
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 85dd9253aa9629f429a5cf1f107e4689, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 14087f61548d5dd428650f2ccb693dc4, type: 2}
