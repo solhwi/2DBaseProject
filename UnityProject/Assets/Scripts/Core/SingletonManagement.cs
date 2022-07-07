@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -44,7 +44,7 @@ public static class SingletonManagement
     {
         foreach(var pair in AliveSingletonsTypeDictionary)
         {
-            Debug.Log(pair.Key.ToString());
+            DebugUtil.Log(pair.Key.ToString());
         }
     }
 #endif

@@ -1,27 +1,33 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public static class MicroCoroutineExtensition
 {
-    public static IMicroCoroutine StartUpdateCoroutine(this MonoBehaviour owner, IEnumerator routine)
+    public static IMicroCoroutine StartUpdateCoroutine(this Object owner, IEnumerator routine)
     {
         return CoroutineMgr.StartCoroutine(owner, CoroutineType.Update, routine);
     }
 
-    public static IMicroCoroutine StartFixedUpdateCoroutine(this MonoBehaviour owner, IEnumerator routine)
+    public static IMicroCoroutine StartFixedUpdateCoroutine(this Object owner, IEnumerator routine)
     {
         return CoroutineMgr.StartCoroutine(owner, CoroutineType.FixedUpdate, routine);
     }
 
-    public static IMicroCoroutine StartEndOfFrameCoroutine(this MonoBehaviour owner, IEnumerator routine)
+    public static IMicroCoroutine StartEndOfFrameCoroutine(this Object owner, IEnumerator routine)
     {
         return CoroutineMgr.StartCoroutine(owner, CoroutineType.EndOfFrame, routine);
     }
 
-    public static void StopCoroutine(this MonoBehaviour owner, IMicroCoroutine coroutine, CoroutineType type = CoroutineType.Update)
+    public static void StopCoroutine(this Object owner, IMicroCoroutine coroutine, CoroutineType type = CoroutineType.Update)
     {
         CoroutineMgr.StopCoroutine(type, coroutine);
+    }
+
+    public static void StopAllCoroutine(this Object owner)
+    {
+        CoroutineMgr.StopAllCoroutine(owner);
     }
 }
 
@@ -32,10 +38,15 @@ public interface IMicroCoroutine
 
 public class MicroCoroutine : IMicroCoroutine, IEqualityComparer<MicroCoroutine>
 {
-    private MonoBehaviour owner;
+    public Object owner
+    {
+        get;
+        private set;
+    }
+
     private List<IEnumerator> coroutines = new List<IEnumerator>();
 
-    public MicroCoroutine(MonoBehaviour owner)
+    public MicroCoroutine(Object owner)
     {
         this.owner = owner;
     }
@@ -107,7 +118,7 @@ public class CoroutineMgr : Singleton<CoroutineMgr>
         StartCoroutine(RunEndOfFrameMicroCoroutine());
     }
 
-    public static IMicroCoroutine StartCoroutine(MonoBehaviour owner, CoroutineType type, IEnumerator routine)
+    public static IMicroCoroutine StartCoroutine(Object owner, CoroutineType type, IEnumerator routine)
     {
         if (Instance == null)
             return null;
@@ -145,6 +156,13 @@ public class CoroutineMgr : Singleton<CoroutineMgr>
         {
             coroutineList.Remove(coroutine as MicroCoroutine);
         }
+    }
+
+    public static void StopAllCoroutine(Object owner)
+    {
+        Instance.coroutineDictionary[CoroutineType.Update] = Instance.coroutineDictionary[CoroutineType.Update].Where(co => co.owner != owner)?.ToList();
+        Instance.coroutineDictionary[CoroutineType.FixedUpdate] = Instance.coroutineDictionary[CoroutineType.FixedUpdate].Where(co => co.owner != owner)?.ToList();
+        Instance.coroutineDictionary[CoroutineType.EndOfFrame] = Instance.coroutineDictionary[CoroutineType.EndOfFrame].Where(co => co.owner != owner)?.ToList();
     }
 
     IEnumerator RunUpdateMicroCoroutine()

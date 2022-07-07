@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -24,7 +24,7 @@ public class UICamera : MonoBehaviour
     {
         cam.clearFlags = CameraClearFlags.Depth;
         cam.transform.position = DefaultCameraPos;
-        cam.depth = (int)SDDefine.CameraDepth.UI;
+        cam.depth = (int)Define.CameraDepth.UI;
         cam.cullingMask = 1 << LayerMask.NameToLayer("UI");
         cam.orthographic = true;
     }

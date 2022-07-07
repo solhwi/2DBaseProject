@@ -7,5 +7,5 @@ using UnityEngine.AddressableAssets;
 [CreateAssetMenu(fileName = "PoolComponent", menuName = "Datas/PoolComponent")]
 public class PoolComponent : ScriptableObject
 {
-    [SerializeField] public AssetReferenceGameObject testItem;
+    [SerializeField] public AssetReference testItem;
 }

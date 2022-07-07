@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace SDDefine
+namespace Define
 {
     /// <summary>
     /// 레이어 타입, 에디터 상 레이어 넘버와 ENUM이 동일해야 함
@@ -38,6 +38,8 @@ namespace SDDefine
     public enum ENUM_TAG_TYPE
     {
         Untagged = 0,
+        PlayerCharacter = 1,
+        NPCCharacter = 2,
     }
 
 
@@ -51,10 +53,9 @@ namespace SDDefine
         None = -1,
         Box = 0,
         Capsule = 1,
-        Mesh = 2,
-        Sphere = 3,
-        Terrain = 4,
-        Wheel = 5,
+        Polygon = 2,
+        Edge = 3,
+        Tile = 4,
     }
 
     [System.Serializable]
@@ -62,5 +63,12 @@ namespace SDDefine
     {
         Player = 0,
         UI = 1,
+    }
+
+    public enum ENUM_RIGIDBODY_TYPE
+    {
+        Static = 0,
+        Kinematic = 1,
+        Dynamic = 2,
     }
 }

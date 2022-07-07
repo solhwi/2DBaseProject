@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using SDDefine;
+using Define;
 
 namespace Solhwi
 {
@@ -37,7 +37,6 @@ namespace Solhwi
             {
                 { SingletonID.ResourceMgr, ResourceMgr.Instance},
                 { SingletonID.ScriptTable, ScriptTable.Instance},
-                { SingletonID.InputMgr, InputMgr.Instance }
             };
         }
 

@@ -3,10 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.UI;
 
-public class UIMgr : Singleton<UIMgr>, PlayerInputActions.IUIActions
+public class UIMgr : Singleton<UIMgr>
 {
     [SerializeField] private UICamera cam;
 
@@ -15,14 +13,9 @@ public class UIMgr : Singleton<UIMgr>, PlayerInputActions.IUIActions
     private CachingPool<UIWindow> pool = new CachingPool<UIWindow>();
     private Dictionary<Type, Action> loadingUIActions = new Dictionary<Type, Action>();
 
-    protected override void OnAwakeInstance()
-    {
-        Init();
-    }
-
     #region Init
 
-    private void Init()
+    protected override void Init()
     {
         InitCamera();
         InitUIGroup();
@@ -67,31 +60,17 @@ public class UIMgr : Singleton<UIMgr>, PlayerInputActions.IUIActions
         g.transform.SetParent(transform);
 
         var eventSystemComponent = g.AddComponent<EventSystem>();
-
         eventSystemComponent.firstSelectedGameObject = null;
         eventSystemComponent.sendNavigationEvents = true;
         eventSystemComponent.pixelDragThreshold = 10;
 
-        var inputModule = g.AddComponent<InputSystemUIInputModule>();
-        inputModule.moveRepeatDelay = 0.5f;
-        inputModule.moveRepeatRate = 0.1f;
-        inputModule.deselectOnBackgroundClick = true;
-        inputModule.pointerBehavior = UIPointerBehavior.SingleMouseOrPenButMultiTouchAndTrack;
-
-        var defaultInputActionAsset = InputMgr.Instance.Asset;
-        var uiActionMap = defaultInputActionAsset.FindActionMap("UI");
-
-        inputModule.actionsAsset = defaultInputActionAsset;
-        inputModule.point = InputActionReference.Create(uiActionMap.FindAction("Point"));
-        inputModule.leftClick = InputActionReference.Create(uiActionMap.FindAction("Click"));
-        inputModule.middleClick = InputActionReference.Create(uiActionMap.FindAction("MiddleClick"));
-        inputModule.rightClick = InputActionReference.Create(uiActionMap.FindAction("RightClick"));
-        inputModule.scrollWheel = InputActionReference.Create(uiActionMap.FindAction("ScrollWheel"));
-        inputModule.move = InputActionReference.Create(uiActionMap.FindAction("Navigate"));
-        inputModule.submit = InputActionReference.Create(uiActionMap.FindAction("Submit"));
-        inputModule.cancel = InputActionReference.Create(uiActionMap.FindAction("Cancel"));
-        inputModule.trackedDevicePosition = InputActionReference.Create(uiActionMap.FindAction("TrackedDevicePosition"));
-        inputModule.trackedDeviceOrientation = InputActionReference.Create(uiActionMap.FindAction("TrackedDeviceOrientation"));
+        var eventInputModule = g.AddComponent<StandaloneInputModule>();
+        eventInputModule.horizontalAxis = "Horizontal";
+        eventInputModule.verticalAxis = "Vertical";
+        eventInputModule.submitButton = "Submit";
+        eventInputModule.cancelButton = "Cancel";
+        eventInputModule.inputActionsPerSecond = 10;
+        eventInputModule.repeatDelay = 0.5f;
     }
 
     #endregion
@@ -189,55 +168,5 @@ public class UIMgr : Singleton<UIMgr>, PlayerInputActions.IUIActions
     public UIGroup FindUIGroup(UILayer layer)
     {
         return UIGroupDictionary?[layer];
-    }
-
-    public void OnNavigate(InputAction.CallbackContext context)
-    {
-
-    }
-
-    public void OnSubmit(InputAction.CallbackContext context)
-    {
-
-    }
-
-    public void OnCancel(InputAction.CallbackContext context)
-    {
-
-    }
-
-    public void OnPoint(InputAction.CallbackContext context)
-    {
-
-    }
-
-    public void OnClick(InputAction.CallbackContext context)
-    {
-
-    }
-
-    public void OnScrollWheel(InputAction.CallbackContext context)
-    {
-
-    }
-
-    public void OnMiddleClick(InputAction.CallbackContext context)
-    {
-
-    }
-
-    public void OnRightClick(InputAction.CallbackContext context)
-    {
-
-    }
-
-    public void OnTrackedDevicePosition(InputAction.CallbackContext context)
-    {
-
-    }
-
-    public void OnTrackedDeviceOrientation(InputAction.CallbackContext context)
-    {
-
     }
 }

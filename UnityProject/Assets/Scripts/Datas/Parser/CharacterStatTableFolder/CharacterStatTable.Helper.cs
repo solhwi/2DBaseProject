@@ -1,4 +1,4 @@
-using SDDefine;
+using Define;
 
 public partial class CharacterStatTable
 {

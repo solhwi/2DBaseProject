@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using SDDefine;
+using Define;
 
 public enum PoolType
 {
@@ -24,7 +24,7 @@ public class ObjectPoolMgr : Singleton<ObjectPoolMgr>
         }
     }
 
-    public void InitPool()
+    protected override void Init()
     {
         for (int i = (int)PoolType.TestItem; i < (int)PoolType.Max; i++)
         {
@@ -44,28 +44,16 @@ public class ObjectPoolMgr : Singleton<ObjectPoolMgr>
         pools[PoolType.TestItem].Initialize(this, poolComponent.testItem, 3);
     }
 
-    public GameObject GetPoolComponent(PoolType type, bool isActive = true)
+    public UnityEngine.Object GetPoolComponent(PoolType type)
     {
         if (pools == null ||
             !pools.ContainsKey(type))
             return null;
 
-        return pools[type].GetObject(isActive);
+        return pools[type].GetObject();
     }
 
-    public GameObject GetPoolComponent(PoolType type, Vector3 pos ,bool isActive = true)
-    {
-        if (pools == null ||
-            !pools.ContainsKey(type))
-            return null;
-
-        var obj = pools[type].GetObject(isActive);
-        obj.transform.position = pos;
-
-        return obj;
-    }
-
-    public void ReturnPoolComponent(PoolType type, GameObject returnObj)
+    public void ReturnPoolComponent(PoolType type, UnityEngine.Object returnObj)
     {
         if (pools == null ||
            !pools.ContainsKey(type))

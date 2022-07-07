@@ -17,7 +17,7 @@ public class ScriptTable : Singleton<ScriptTable>
         get { return notLoadedTableCount == 0; }
     }
 
-    protected override void OnAwakeInstance()
+    protected override void Init()
     {
         SetTable();
     }

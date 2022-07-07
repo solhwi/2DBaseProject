@@ -1,4 +1,4 @@
-using SDDefine;
+using Define;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -35,7 +35,9 @@ public class ResourceAttribute : Attribute
 
 public class ResourceMgr : Singleton<ResourceMgr>
 {
+#if !UNITY_EDITOR
     private int loadedAssetCount = 0;
+#endif
     public override bool IsLoadDone
     {
         get
@@ -48,7 +50,7 @@ public class ResourceMgr : Singleton<ResourceMgr>
         }
     }
 
-    protected override void OnAwakeInstance()
+    protected override void Init()
     {
 #if !UNITY_EDITOR
         foreach(var label in Enum.GetValues(typeof(AssetType)))
@@ -110,7 +112,7 @@ public class ResourceMgr : Singleton<ResourceMgr>
         return async;
     }
 
-    public AsyncOperationHandle<GameObject> Instantiate(AssetReferenceGameObject gameObject, Transform parent, Action<GameObject> OnCompleted = null)
+    public AsyncOperationHandle<GameObject> Instantiate(AssetReference gameObject, Transform parent, Action<GameObject> OnCompleted = null)
     {
         if (gameObject == null)
             return new AsyncOperationHandle<GameObject>();
@@ -128,10 +130,10 @@ public class ResourceMgr : Singleton<ResourceMgr>
         return async;
     }
 
-    public GameObject InstantiateSync(GameObject obj)
+    public UnityEngine.Object InstantiateSync(UnityEngine.Object obj)
     {
         if (obj == null)
-            return new GameObject();
+            return new UnityEngine.Object();
 
         return Instantiate(obj);
     }
