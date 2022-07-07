@@ -14,7 +14,7 @@ using UnityEngine;
 
 public class ScriptParserEditor : AssetPostprocessor
 {
-	public static string ExcelRootPath = "../Common/ExcelDatas/";
+	public static string ExcelRootPath = "../CommonDatas/ExcelDatas/";
 	public static string CSRootPath = "Assets/Scripts/Datas/Parser/";
 
 	public static readonly int FixedDataStartRow = 2;
