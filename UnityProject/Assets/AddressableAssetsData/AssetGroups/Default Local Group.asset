@@ -1,0 +1,537 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 05001f1ad23722e4f9089e75d53ccefd
+  m_SerializeEntries:
+  - m_GUID: a6e39ced0ea046bcb636c3f0b2e2a745
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab
+      1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: fdad9d952ae84cafb74c63f2e694d042
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab
+      2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: b06f0e6c1dfa4356ac918da1bb32c603
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: d857763e1758f6b46b2efe0515ca5167
+    m_Address: Assets/Bundles/Scenes/Stage/DummyMap.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: a881da1cde5a5404e94ff8c32a32d384
+    m_Address: Assets/Bundles/Datas/Parser/CharacterStatTable.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 577fa6de36d1f0d4498bdcfad550bdc6
+    m_Address: Assets/Bundles/Datas/Parser/ItemTable.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: a386bde633a3116498375cb6b7ff972e
+    m_Address: Assets/Bundles/Datas/Parser/CharacterAnimationTable.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 15bf909e6848844439180e39a93d9ff9
+    m_Address: Assets/Bundles/Datas/Parser/MapPathTable.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: dc36b3fdc14f47ebb36fd484a67e268a
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic
+      Highway Sign SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 5302535af1044152a457ed104f1f4b91
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 2e498d1c8094910479dc3e1b768306a4
+    m_Address: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Fallback.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 8a89fa14b10d46a99122fd4f73fca9a2
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 0161d805a3764c089bef00bfe00793f5
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald
+      Bold SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 125cb55b44b24c4393181402bc6200e6
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 00000000000000004000000000000000
+    m_Address: ProjectSettings/ProjectSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 0000000000000000b000000000000000
+    m_Address: ProjectSettings/EditorBuildSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 14087f61548d5dd428650f2ccb693dc4
+    m_Address: Assets/InputSystem.inputsettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 00000000000000003000000000000000
+    m_Address: ProjectSettings/TagManager.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: f0e930b838685904183661532546d0ef
+    m_Address: Assets/Bundles/Datas/CustomParser/MapData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: a4a26f7fe0efb5b4b945cc932637f153
+    m_Address: Assets/Bundles/Datas/Parser/ItemSequenceTable.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 61f57b86cd162d44fa6442b602cdad56
+    m_Address: Assets/Bundles/Datas/CustomParser/CameraViewData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 21a509e1d3cd49978623fa564adb6f02
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: aadd5a709a48466c887296bb5b1b8110
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader
+      Scene.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 749b9069dc4742c5bfa5c74644049926
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF - Drop Shadow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 22a2fba786ad4c40ac0ba09f0b933100
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 6250f98e58fe4abbaada5d84b7ca846d
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting
+      Example.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 03ec435d4b7140e9b2d87f79136d8374
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript
+      Example.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: f952c082cb03451daed3ee968ac6c63e
+    m_Address: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 00000000000000006000000000000000
+    m_Address: ProjectSettings/AudioManager.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 00000000000000006100000000000000
+    m_Address: ProjectSettings/GraphicsSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 16177da2e3254cee91944756d5f8ddd3
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 2ac8cf212df6445e8aebbe3cb832e993
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh
+      Pro.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 5cf8ae092ca54931b443bec5148f3c59
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light
+      to Dark Green - Vertical.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 84ed36ad77dd4956b2ffe3769f759879
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 50f52f9274434ecfb34dd87f0836f323
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 6522f30e342599e4e9dd4cc2cc03c830
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF - Sunny Days.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 251716609f634449bfe8ce75c0ed78fe
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh
+      Pro.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: a00013af81304728b2be1f4309ee2433
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF - Outline.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: c41005c129ba4d66911b75229fd70b45
+    m_Address: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 00000000000000007100000000000000
+    m_Address: ProjectSettings/ClusterInputManager.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: e6b276ec991f467aa14ef1f3cc665993
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF - Surface.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 0000000000000000c100000000000000
+    m_Address: ProjectSettings/VFXManager.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 4c86a3366cd840348ebe8dc438570ee4
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark
+      to Light Green - Vertical.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: e6b9b44320f4448d9d5e0ee634259966
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader
+      Scene.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 00000000000000002000000000000000
+    m_Address: ProjectSettings/InputManager.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 349f38d3606449708c7340d26740e1e2
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 5fe2257128d9401fad0790f581dc8a6f
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 479a66fa4b094512a62b0a8e553ad95a
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue
+      to Purple - Vertical.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 22262639920f43d6be32430e4e58350d
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 39a1fa96ad2a449b908fca29d4297a74
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text
+      Examples.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 14aa93acbb234d16aaef0e8b46814db6
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap
+      Numbers.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: f2dcf029949142e28b974630369c8b4e
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF - Drop Shadow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: f9b4c22e15cff344ba9fc6542a58dd07
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 00000000000000004100000000000000
+    m_Address: ProjectSettings/NavMeshAreas.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: b246c4190f4e46ec9352fe15a7b09ce0
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF - Drop Shadow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 9747140c28254be2adc582210dfb89b8
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 9ad269c99dcf42b7aedefd83dd5a7b9d
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Overlay.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 8f7137eacd7042d5b17ef0efe5e744f5
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 337f92480dd24675aae9e79210fb1ad9
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with
+      Scrollbar.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: Assets/Scenes/Enter.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 00000000000000009000000000000000
+    m_Address: ProjectSettings/QualitySettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: f4e195ac1e204eff960149d1cb34e18c
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF Logo.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: c91389c39d842cc4190ea8be0836798a
+    m_Address: Packages/com.unity.timeline/Editor/StyleSheets/res/HumanoidDefault.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 00000000000000007000000000000000
+    m_Address: ProjectSettings/TimeManager.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: c3f814e1d12c45568daf3dd9a86a0e61
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered
+      List Example.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 0000000000000000f100000000000000
+    m_Address: ProjectSettings/MemorySettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 00000000000000008000000000000000
+    m_Address: ProjectSettings/DynamicsManager.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 8c4969fd8ba94a68b07cf11f3e7a5137
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: d75b8f41e959450c84ac6e967084d3e1
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF Glow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 0000000000000000c000000000000000
+    m_Address: ProjectSettings/EditorSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 54e994244b4b467e8583cf2da6dcc716
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex
+      Attributes.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: fbef3c704dce48f08a44612d6c856c8d
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default
+      Sprite Asset.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 9442cda25baa4a0bb544c4d095b00caa
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow
+      mode example.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 0000000000000000b100000000000000
+    m_Address: ProjectSettings/PresetManager.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 8f586378b4e144a9851e7b34d9b748ee
+    m_Address: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 70615243e2be4a81afaab9bf5d273d65
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: e73a58f6e2794ae7b1b7e50b7fb811b0
+    m_Address: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Drop Shadow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 42df1c7856584b6b8db9a509b6b10074
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Soft Mask.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 03f9d74cec8e4b94a29d2dfd177c821b
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking
+      & Layout.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: f629c6e43dba4bf38cb74d8860150664
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF - Outline.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 8b29aaa3eec7468097ff07adfcf29ac9
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Metalic Green.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 0851605490a599b46b6ac5cb681d93ea
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder
+      Example.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 69a525efa7e6472eab268f6ea605f06e
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow
+      to Orange - Vertical.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 3e2e4d7b0bed4cf9ab827e9f32448f69
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 3f5b5dff67a942289a9defa416b206f3
+    m_Address: Assets/TextMesh Pro/Resources/TMP Settings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: c719e38f25a9480abd2480ab621a2949
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: e76e6c0f81964cbda3fe0b7d26ed8060
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics
+      & Sprites.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 0000000000000000a100000000000000
+    m_Address: ProjectSettings/UnityConnectSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 79459efec17a4d00a321bdcc27bbc385
+    m_Address: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Outline.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 0000000000000000d100000000000000
+    m_Address: ProjectSettings/VersionControlSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 875684baf40f4d008ce806d03e2a81b2
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 9abcd5bd764646568a6ea70d00f9264c
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture
+      & Soft Mask.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 08572ab7713642c8a60789750f0bce5c
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 00000000000000005100000000000000
+    m_Address: ProjectSettings/Physics2DSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2147ce2e9694e044ba90d4c69f542189, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 83cdc4ff4778afb4884481236b069328, type: 2}

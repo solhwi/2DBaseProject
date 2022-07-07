@@ -1,0 +1,671 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 05001f1ad23722e4f9089e75d53ccefd
+  m_SerializeEntries:
+  - m_GUID: d7dd99f9b04e42742a3050f6ab8eee12
+    m_Address: Assets/Bundles/Prefabs/UI/MIDDLE/HPBar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 6224bc0a21c1046ceb676a4246d50da8
+    m_Address: Assets/Bundles/Animations/Solider/RunFireSMG.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 268781a61383b42a98eeda538dfa52e9
+    m_Address: Assets/Bundles/Animations/Solider/RunL.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: f65e8694646404294b2de66b5827d6e5
+    m_Address: Assets/Bundles/Animations/Solider/RunR.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 52726528637b14f8586ef4583b34b790
+    m_Address: Assets/Bundles/Animations/Solider/SprintF.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 12f83840bf513493c819c3e6ceebb013
+    m_Address: Assets/Bundles/Animations/Solider/WalkB.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 73098e15972fa4a23b0562e6f1262161
+    m_Address: Assets/Bundles/Animations/Solider/WalkF.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: e011f1bb45ed34db296d1bd5e3d7e2ce
+    m_Address: Assets/Bundles/Animations/Solider/WalkL.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: b3bfe99b5c470442e95763e6be7b1a5a
+    m_Address: Assets/Bundles/Animations/Solider/WalkR.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: df787a42d52d64ff4b908f7a344d499e
+    m_Address: Assets/Bundles/Animations/Solider/Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 9268e98fb6cf94b7680e3c72e7e3f7af
+    m_Address: Assets/Bundles/Animations/Solider/IdleFireSMG.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 490e214aa41ee4896b152dcb101f1b55
+    m_Address: Assets/Bundles/Animations/Solider/IdleReloadSMG.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 6aba53e6dc3a949f78d860f083c0a174
+    m_Address: Assets/Bundles/Animations/Solider/MenuIdle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 777be73b9098940d086517b3fe6beb8a
+    m_Address: Assets/Bundles/Animations/Solider/RunB.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 185c4b4f1e1c1441d920959e7dee49a5
+    m_Address: Assets/Bundles/Animations/Solider/RunF.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: b7e5634eacde2694db4f341c154eb532
+    m_Address: Assets/Bundles/Prefabs/Character/Solider.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: ae803a4302695ca46adf0e6b024810ba
+    m_Address: Assets/Bundles/Animations/Solider/Solider.controller
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: a7aa2ec825e26004a9fa164758b6bffb
+    m_Address: Assets/Bundles/Prefabs/UI/TOP/LoginWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: cd278b6c8cb17cc4e83e4b16775e2c20
+    m_Address: Assets/Bundles/Datas/Pool/PoolComponent.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 7c015a058eaaf9f409f84affcae6c1cd
+    m_Address: Assets/Bundles/Prefabs/Environment/Floor.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: eec3da01a68107e41b8c7b824ad72f60
+    m_Address: Assets/Bundles/Prefabs/Character/Bullet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 074073843b96e6e4bbe9e75065e20eca
+    m_Address: Assets/Bundles/Prefabs/Environment/Skybox.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 96e82463b7d46344295e9a965beb41f9
+    m_Address: Assets/Bundles/Models/Barrel/Barrel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 236b1fb2cdebe7645b3e5c6f689af4ba
+    m_Address: Assets/Bundles/Prefabs/Environment/Wall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: e3750ed9101e1b641a1c62d48ef3dac0
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Demo/P_DEMO_YFMM_Spheres.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 7a0feaf00236a6a478aa15df6800e5ed
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Demo/Sc_DEMO_YFMM_Preview.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: a6e39ced0ea046bcb636c3f0b2e2a745
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab
+      1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: fdad9d952ae84cafb74c63f2e694d042
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab
+      2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: b06f0e6c1dfa4356ac918da1bb32c603
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: d857763e1758f6b46b2efe0515ca5167
+    m_Address: Assets/Bundles/Scenes/Stage/DummyMap.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 52dd57455245cc04fb459d1402c0d9f7
+    m_Address: Assets/Bundles/Prefabs/UI/MIDDLE/InteractionUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 1c11212dc6e2baf49a678e8550f59c16
+    m_Address: Assets/Bundles/Prefabs/Item/TestItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: a881da1cde5a5404e94ff8c32a32d384
+    m_Address: Assets/Bundles/Datas/Parser/CharacterStatTable.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 577fa6de36d1f0d4498bdcfad550bdc6
+    m_Address: Assets/Bundles/Datas/Parser/ItemTable.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: a386bde633a3116498375cb6b7ff972e
+    m_Address: Assets/Bundles/Datas/Parser/CharacterAnimationTable.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 15bf909e6848844439180e39a93d9ff9
+    m_Address: Assets/Bundles/Datas/Parser/MapPathTable.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 2d8ccd4284fcf684ca6c7b02b750671d
+    m_Address: Assets/Bundles/Prefabs/UI/TOP/LobbyWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: cf8d9690c28d83046b14299f63db7804
+    m_Address: Assets/DummyFolder/Test Animator Controller.controller
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 4fe9596c3c787ab45a79dd3848dea35d
+    m_Address: Assets/Scripts/TempFolder/MoveAnimController.controller
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: db4b87b04552fbb4fad440c4b13314b1
+    m_Address: Assets/Scripts/TempFolder/BackCubeAnim.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: cb29f51837587c340adfade8eec1003a
+    m_Address: Assets/Scripts/TempFolder/GoCubeAnim.anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Animation
+  - m_GUID: 67b277cf30a65ef4e9b45bd261e8571a
+    m_Address: Assets/Bundles/Prefabs/UI/TOP/SystemPopup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: c85c8d466f60fc440a3dd33cf7900d24
+    m_Address: Assets/Scenes/TestScenes.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
+  - m_GUID: 12d9330637a209744b04e27cc89744df
+    m_Address: Assets/Bundles/Prefabs/UI/TOP/LoadingindicatiorUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: dc36b3fdc14f47ebb36fd484a67e268a
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic
+      Highway Sign SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5302535af1044152a457ed104f1f4b91
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e498d1c8094910479dc3e1b768306a4
+    m_Address: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Fallback.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8a89fa14b10d46a99122fd4f73fca9a2
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0161d805a3764c089bef00bfe00793f5
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald
+      Bold SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 125cb55b44b24c4393181402bc6200e6
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53a6845cb98b7a1468412ff5e008a71d
+    m_Address: Assets/Bundles/Prefabs/Item/Rifle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: e541ca7f1bd74ce4eb2261d3b9efc7d9
+    m_Address: Assets/Bundles/Prefabs/Item/Shotgun.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 134c3b7b869465241a31ac99f6ad3e77
+    m_Address: Assets/Bundles/Materials/Custom/SkyboxProcedural.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: dd9f6c05ac7b21e4abd45bc51f3ce0af
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_15.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: bacc7ee8fd0869d45be470f049e53d8b
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_11.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: c50e2eb70fabc794d9dde9a41e831644
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_41.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: c1039856c953f6143b366284c53ece75
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_19.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: ee47644675828514c8b999edaa99ee59
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_08.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: d483b4637a2e1b84999ed6e843dd932a
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_03.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: ad7d3ed0319816940bbf70e52f46866d
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_22.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: d0168d139a4e746afabad4e5096c78a7
+    m_Address: Assets/Bundles/Models/Bullet/Materials/Bullet_UV2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 66bb025986bd66c479f0fe7e007798b0
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_25.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: a7a35a310f4bf234099e346d4c063b79
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_48.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 966766f4829d6ad419eaaf7cf0712f85
+    m_Address: Assets/Bundles/Sprites/SkyBox Volume 2/DeepSpaceRed/DSR.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 0628f850633764dfe82afdc4a92b3cce
+    m_Address: Assets/Bundles/Models/Weapons/Materials/m_rifle02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: d690ce46b58f6704caed1ffbff694459
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_21.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: d409cb4178b291a48bf123e918dc1775
+    m_Address: Assets/Bundles/Materials/BlobShadow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: b8f20d5ca50d16143afc11f5e4af6fc1
+    m_Address: Assets/Bundles/Sprites/SkyBox Volume 2/DeepSpaceBlueWithPlanet/DSBWP.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 8b486f856f0491e40977f08e818e3497
+    m_Address: Assets/Bundles/Models/Barrel/Materials/Barrel-Barrel 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 6c196c7188cb7314cb4fc62a41ccad77
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_44.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 1b7c6da276d564d30b27a2b8d1b9b5dd
+    m_Address: Assets/Bundles/Models/Player/Material/m_SkinSlade.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 808e5bc0f76962c459361fe60e2d29ec
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_32.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 4609707953676524ca8dbe489a6ced95
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_38.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: b80b25c8f396f7a41bcb9d182502dbf3
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_28.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 54eb0a880c35ecd4fa56b3b6c33e8aaa
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_16.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 4284e0aad15d6b64d86768e51640a3aa
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_46.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 44a33fb009ad7be49989aac59c791e79
+    m_Address: Assets/Bundles/Materials/Custom/Floor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: b371f36f272eff140b69e5a5410cd2bd
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_45.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: d114cde0600508c4f9eed72b935654e6
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_26.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 0799c0fca43b43549b92dbbb57355b63
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 19e2485c6f92d6944ad20466ac77b04c
+    m_Address: Assets/Bundles/Sprites/SkyBox Volume 2/DeepsSpaceRedWithPlanet/DSRWP.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 9607862bf90553342b6c7a1e3d273805
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_35.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: f99c2f606e487bd4ba7c619b09a10f39
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: d5c2611926b334e488e131369218f292
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_05.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 404f9faecac1f6d43b5fcefa89522ab1
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_06.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 941cd838b626447479432576a7b1de94
+    m_Address: Assets/Bundles/Models/Weapons/Materials/m_monte_smg_sho.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 7a453bae213a8b04b9e9f8adb81cc8be
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_47.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: f9d3d0adb0578be45993c6728d3cc2dc
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_18.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 5b21c6a8ce40f9641bd1204324b90b2c
+    m_Address: Assets/Bundles/Sprites/SkyBox Volume 2/DeepSpaceGreenWithPlanet/DSGWP.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: be59c48e93fb1414185bd7d54511911e
+    m_Address: Assets/Bundles/Materials/Custom/Wall.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 3cd173ae4543f8745ac463237321e8db
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_27.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 0e3ad63f883b06b458c1ef2d59167313
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_13.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 0a31d93ccb7c2e04a8fae09bd5858d53
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_43.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 9ee5736c74580c341822a916611ab4f8
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_42.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 08d90a021f5ea464d8839057832cbb6c
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_31.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: b944d3c9a69fd6142b438414bbddcd4a
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_37.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 89b53b6902b0ec14baa1599e1c68d643
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_39.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 49fe7b19c37f945b49102a71d5a4d59b
+    m_Address: Assets/Bundles/Models/Weapons/Materials/m_shotguns01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 7aff8cf784c3c21428b4887833479217
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Demo/M_DEMO_YFMM_Ground.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 2d4eb4632ff89504084de124ceedf2e4
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_33.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: b9be0c15efe8ad9489fdeead114d8ec5
+    m_Address: Assets/Bundles/Sprites/SkyBox Volume 2/Stars01/StarSkyBox.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 815726b91e0e2d34a84b7ddc790e5b86
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_09.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: af089ba3f236b004fb2bb64119f294d8
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_24.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 4aac98aef254ecf429643db51adb8f72
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_40.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: a6d73f9e47bd28d438e0eaa89328614f
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_30.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: aec187e4dc149164983cd07bb5dc4296
+    m_Address: Assets/Bundles/Models/Barrel/Materials/Barrel-Barrel 2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 719a1a58587c8784d86b0eec4539ef05
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_17.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: c3f545871e6ad0b429875fb73852a671
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_29.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: a07fadb24ea940240afba3afc1a692cc
+    m_Address: Assets/Bundles/Sprites/SkyBox Volume 2/DeepSpaceGreen/DSG.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: e980bc7fbb00dc34b86b95ac842d1920
+    m_Address: Assets/Bundles/Sprites/SkyBox Volume 2/DeepSpaceBlue/DSB.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 2e501b641f5503e4d9442eb5c3f96f74
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_49.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 579d167621596b0419dc2ebf58efe561
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_07.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 9b8a78dbb8e688e468daf2da07cf93b6
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_36.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 912a111c88ed8784ba822436ef508393
+    m_Address: Assets/Bundles/Materials/Custom/Skybox.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 4a2abd4f67aefc24b9c6cca2d197adc7
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_34.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 7dc874c331998244eaa078e5d615a6dd
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_50.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 294b00804ed584d4ab6b6ea04153afdb
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_23.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 7e54e52b5d24943bf8fcaabd7cda3ceb
+    m_Address: Assets/Bundles/Models/Weapons/Materials/m_rifle01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: d6e7475a477721949a7fa2353ffb7e32
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_12.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: cb339679d860eb649a63a72e8aaa0ee0
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_04.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 6bded294da3a9cf47bdb6b9259f86b49
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_14.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 32373cb5a2b659c4c8b6f2919660727c
+    m_Address: Assets/Bundles/Models/Barrel/Materials/Barrel-Barrel.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: ab4269e12763c2845868256b389e5b9b
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_10.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: b1ec81eca85a9d84ea5f62901c99f89d
+    m_Address: Assets/Bundles/Materials/YughuesFreeMetalMaterials/Materials/M_YFMM_20.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+  - m_GUID: 00000000000000004000000000000000
+    m_Address: ProjectSettings/ProjectSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 0000000000000000b000000000000000
+    m_Address: ProjectSettings/EditorBuildSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 14087f61548d5dd428650f2ccb693dc4
+    m_Address: Assets/InputSystem.inputsettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: 00000000000000003000000000000000
+    m_Address: ProjectSettings/TagManager.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  - m_GUID: f0e930b838685904183661532546d0ef
+    m_Address: Assets/Bundles/Datas/CustomParser/MapData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UnityAsset
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2147ce2e9694e044ba90d4c69f542189, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 83cdc4ff4778afb4884481236b069328, type: 2}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f21f1e6e869ec9c4cabe137a2dac085c, type: 3}
+  m_Name: CharacterAnimationTable
+  m_EditorClassIdentifier: 
+  CharacterAnimationPathList:
+  - key: 0
+    animatorController: Assets/Bundles/Animations/Solider/Solider.controller
+    idle: Assets/Bundles/Animations/Solider/Idle.anim
+    idleFire: Assets/Bundles/Animations/Solider/IdleFireSMG.anim
+    idleReload: Assets/Bundles/Animations/Solider/IdleReloadSMG.anim
+    idleMenu: Assets/Bundles/Animations/Solider/MenuIdle.anim
+    runB: Assets/Bundles/Animations/Solider/RunB.anim
+    runF: Assets/Bundles/Animations/Solider/RunF.anim
+    runL: Assets/Bundles/Animations/Solider/RunL.anim
+    runR: Assets/Bundles/Animations/Solider/RunR.anim
+    walkB: Assets/Bundles/Animations/Solider/WalkB.anim
+    walkF: Assets/Bundles/Animations/Solider/WalkF.anim
+    walkL: Assets/Bundles/Animations/Solider/WalkL.anim
+    walkR: Assets/Bundles/Animations/Solider/WalkR.anim
+    runFire: Assets/Bundles/Animations/Solider/RunFireSMG.anim
+    sprint: Assets/Bundles/Animations/Solider/SprintF.anim
+  CharacterAnimationPathDictionary:
+    m_keys: 00000000
+    m_values:
+    - key: 0
+      animatorController: Assets/Bundles/Animations/Solider/Solider.controller
+      idle: Assets/Bundles/Animations/Solider/Idle.anim
+      idleFire: Assets/Bundles/Animations/Solider/IdleFireSMG.anim
+      idleReload: Assets/Bundles/Animations/Solider/IdleReloadSMG.anim
+      idleMenu: Assets/Bundles/Animations/Solider/MenuIdle.anim
+      runB: Assets/Bundles/Animations/Solider/RunB.anim
+      runF: Assets/Bundles/Animations/Solider/RunF.anim
+      runL: Assets/Bundles/Animations/Solider/RunL.anim
+      runR: Assets/Bundles/Animations/Solider/RunR.anim
+      walkB: Assets/Bundles/Animations/Solider/WalkB.anim
+      walkF: Assets/Bundles/Animations/Solider/WalkF.anim
+      walkL: Assets/Bundles/Animations/Solider/WalkL.anim
+      walkR: Assets/Bundles/Animations/Solider/WalkR.anim
+      runFire: Assets/Bundles/Animations/Solider/RunFireSMG.anim
+      sprint: Assets/Bundles/Animations/Solider/SprintF.anim
