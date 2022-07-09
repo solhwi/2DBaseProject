@@ -14,7 +14,7 @@ public class SceneMgr : Singleton<SceneMgr>
 {
     GameSceneBase gameScene;
 
-    protected override void OnAwakeInstance()
+    protected override void Initialize()
     {
         gameScene = FindObjectOfType<GameSceneBase>();
     }

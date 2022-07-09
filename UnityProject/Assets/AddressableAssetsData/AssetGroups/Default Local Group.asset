@@ -1726,38 +1726,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Scene
-  - m_GUID: 775dd0a15ad25a544b33ad40ef0da1f0
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Resources/Spaceship.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: fe764102aa5aa431795da15fa2dec0e2
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Resources/My
-      Robot Kyle -done-.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 15f43343ba0a60e47a63d28496373c3f
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Resources/BigAsteroid.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 18a79aea49b60d342b7a672b7a34edbe
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Resources/SmallAsteroid.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: c9248d8e58293473bb27cf2f5505f88b
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Resources/Player
-      Controller.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: f8cc5435e115aa4409a8d836cc40872a
-    m_Address: Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UnityAsset
   - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
     m_Address: Assets/Scenes/Enter.unity
     m_ReadOnly: 0

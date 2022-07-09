@@ -17,37 +17,37 @@ public class ScriptTable : Singleton<ScriptTable>
         get { return notLoadedTableCount == 0; }
     }
 
-    protected override void Init()
+    protected override void Initialize()
     {
         SetTable();
     }
 
     public void SetTable()
     {
-        tableDictionary.Clear();
-        customTableDictionary.Clear();
+        //tableDictionary.Clear();
+        //customTableDictionary.Clear();
 
-        var csharp = Assembly.GetAssembly(typeof(ScriptParser));
+        //var csharp = Assembly.GetAssembly(typeof(ScriptParser));
 
-        var parsers = csharp.GetTypes().
-            Where(type => type.IsSubclassOf(typeof(ScriptParser)))
-            .ToArray();
+        //var parsers = csharp.GetTypes().
+        //    Where(type => type.IsSubclassOf(typeof(ScriptParser)))
+        //    .ToArray();
 
-        var customParsers = csharp.GetTypes().
-            Where(type => type.IsSubclassOf(typeof(CustomScriptParser)))
-            .ToArray();
+        //var customParsers = csharp.GetTypes().
+        //    Where(type => type.IsSubclassOf(typeof(CustomScriptParser)))
+        //    .ToArray();
 
-        notLoadedTableCount = parsers.Length + customParsers.Length;
+        //notLoadedTableCount = parsers.Length + customParsers.Length;
 
-        foreach (var parser in parsers)
-        {
-            ResourceMgr.Instance.LoadByType<ScriptParser>(parser, () => { notLoadedTableCount--; }, PushTable);
-        }
+        //foreach (var parser in parsers)
+        //{
+        //    ResourceMgr.Instance.LoadByType<ScriptParser>(parser, () => { notLoadedTableCount--; }, PushTable);
+        //}
 
-        foreach (var parser in customParsers)
-        {
-            ResourceMgr.Instance.LoadByType<CustomScriptParser>(parser, () => { notLoadedTableCount--; }, PushCustomTable);
-        }
+        //foreach (var parser in customParsers)
+        //{
+        //    ResourceMgr.Instance.LoadByType<CustomScriptParser>(parser, () => { notLoadedTableCount--; }, PushCustomTable);
+        //}
     }
 
     private void PushTable<T>(T table) where T : ScriptParser

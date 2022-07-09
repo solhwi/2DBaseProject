@@ -17,7 +17,7 @@ public class UIMgr : Singleton<UIMgr>, PlayerInputActions.IUIActions
 
     #region Init
 
-    protected override void Init()
+    protected override void Initialize()
     {
         InitCamera();
         InitUIGroup();

@@ -9,22 +9,22 @@ using UnityEditor;
 
 public static class SingletonManagement
 {
-    [SerializeField] private static GameObject Management = null;
+    [SerializeField] private static GameMgr rootMgr = null;
     [SerializeField] private static Dictionary<Type, Singleton> AliveSingletonsTypeDictionary = new Dictionary<Type, Singleton>();
 
     private static void InitManagement()
     {
-        Management = new GameObject("@Management");
-        MonoBehaviour.DontDestroyOnLoad(Management);
+        rootMgr = GameMgr.Instance;
+        MonoBehaviour.DontDestroyOnLoad(rootMgr.gameObject);
     }
 
     public static void RegisterManager(Singleton obj)
     {
-        if(Management == null) InitManagement();
+        if(rootMgr == null) InitManagement();
         
         if(obj != null)
         {
-            obj.transform.SetParent(Management.transform);
+            obj.transform.SetParent(rootMgr.transform);
             AliveSingletonsTypeDictionary.Add(obj.GetType(), obj);
         }
     }

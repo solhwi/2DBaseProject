@@ -85,11 +85,6 @@ public class MicroCoroutine : IMicroCoroutine, IEqualityComparer<MicroCoroutine>
     }
 }
 
-/// <summary>
-/// 코루틴 객체의 리턴이 필요없을 때 사용하도록 하는 코루틴 매니저
-/// </summary>
-/// 
-
 public enum CoroutineType
 {
     Update = 0,
@@ -101,7 +96,7 @@ public class CoroutineMgr : Singleton<CoroutineMgr>
 {
     private Dictionary<CoroutineType, List<MicroCoroutine>> coroutineDictionary = null;
 
-    protected override void OnAwakeInstance()
+    protected override void Initialize()
     {
         coroutineDictionary = new Dictionary<CoroutineType, List<MicroCoroutine>>()
         {
@@ -109,10 +104,7 @@ public class CoroutineMgr : Singleton<CoroutineMgr>
             { CoroutineType.FixedUpdate, new List<MicroCoroutine>() },
             { CoroutineType.EndOfFrame, new List<MicroCoroutine>() },
         };
-    }
 
-    protected override void OnStartInstance()
-    {
         StartCoroutine(RunUpdateMicroCoroutine());
         StartCoroutine(RunFixedUpdateMicroCoroutine());
         StartCoroutine(RunEndOfFrameMicroCoroutine());

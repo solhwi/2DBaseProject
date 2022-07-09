@@ -50,7 +50,7 @@ public class ResourceMgr : Singleton<ResourceMgr>
         }
     }
 
-    protected override void Init()
+    protected override void Initialize()
     {
 #if !UNITY_EDITOR
         foreach(var label in Enum.GetValues(typeof(AssetType)))

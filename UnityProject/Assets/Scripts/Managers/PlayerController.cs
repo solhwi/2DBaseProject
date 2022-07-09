@@ -7,8 +7,7 @@ public class PlayerController : Singleton<PlayerController>
     private PlayerCharacter character;
     private PlayerCamera cam;
 
-    protected override void Init()
+    protected override void Initialize()
     {
-        base.Init();
     }
 }

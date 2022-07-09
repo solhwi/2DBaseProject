@@ -5,5 +5,7 @@ using Define;
 
 public partial class Inventory : Singleton<Inventory>
 {
-
+    protected override void Initialize()
+    {
+    }
 }

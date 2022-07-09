@@ -67,6 +67,7 @@ namespace Define
 
     public enum ENUM_RIGIDBODY_TYPE
     {
+        None = -1,
         Static = 0,
         Kinematic = 1,
         Dynamic = 2,

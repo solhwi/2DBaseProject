@@ -24,7 +24,7 @@ public class ObjectPoolMgr : Singleton<ObjectPoolMgr>
         }
     }
 
-    protected override void Init()
+    protected override void Initialize()
     {
         for (int i = (int)PoolType.TestItem; i < (int)PoolType.Max; i++)
         {

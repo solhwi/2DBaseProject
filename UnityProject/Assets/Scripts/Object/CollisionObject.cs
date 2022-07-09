@@ -7,6 +7,7 @@ using System;
 /// <summary>
 /// 물리 충돌이 가능한 충돌체에게 컴포넌트 그대로, 혹은 상속하여 적용합니다.
 /// 콜라이더의 외형은 스스로 부착해야 합니다.
+/// 콜라이더가 필요없어지면 ChangeColliderTriggerMode를 호출합니다.
 /// </summary>
 
 [RequireComponent(typeof(Collider))]
@@ -80,6 +81,11 @@ public class CollisionObject : MonoBehaviour
 
         Init();
 
+        Col.isTrigger = isTrigger;
+    }
+
+    public void ChangeColliderTriggerMode(bool isTrigger)
+    {
         Col.isTrigger = isTrigger;
     }
 

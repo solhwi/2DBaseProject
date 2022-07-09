@@ -29,7 +29,7 @@ public abstract class Singleton : MonoBehaviour
         }
     }
 
-    protected virtual void Init() { }
+    protected abstract void Initialize();
     protected virtual void OnAwakeInstance() { }
     protected virtual void OnStartInstance() { }
     protected virtual void OnReleaseInstance() { }
@@ -49,7 +49,7 @@ public abstract class Singleton<T> : Singleton where T : Singleton<T>
             GameObject g = new GameObject();
             instance = g.AddComponent<T>();
 
-            instance.Init();
+            instance.Initialize();
 
             SingletonManagement.RegisterManager(instance);
 

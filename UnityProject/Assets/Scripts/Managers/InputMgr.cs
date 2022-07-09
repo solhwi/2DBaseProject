@@ -92,7 +92,7 @@ public sealed class InputMgr : Singleton<InputMgr>
         }
     }
 
-    protected override void OnAwakeInstance()
+    protected override void Initialize()
     {
         if (playerInputActions == null)
             playerInputActions = new PlayerInputActions();
@@ -264,4 +264,6 @@ public sealed class InputMgr : Singleton<InputMgr>
             action.canceled -= OnCompleted;
         }
     }
+
+
 }
