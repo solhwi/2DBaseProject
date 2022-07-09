@@ -20,7 +20,7 @@ public class CollisionObject : MonoBehaviour
         protected set
         {
             layerType = value;
-            CustomPhysics.SetLayer(this, layerType);
+            SDPhysics.SetLayer(this, layerType);
         }
     }
 

@@ -4,7 +4,7 @@ using UnityEngine;
 using Define;
 using System.Linq;
 
-public static class CustomPhysics
+public static class SDPhysics
 {
     public static void SetLayer(CollisionObject collider, ENUM_LAYER_TYPE layerType)
     {

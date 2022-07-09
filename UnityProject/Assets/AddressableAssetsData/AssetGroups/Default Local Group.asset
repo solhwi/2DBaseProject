@@ -985,11 +985,10 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
-  - m_GUID: 6f7f323fbafea47d6b437a00d0d10d3d
-    m_Address: Assets/Scenes/Tutorial/BlankScene.unity
+  - m_GUID: dcca62f43c7e7914baaa0e8e13d71d2e
+    m_Address: Assets/Bundles/InputAction/PlayerInputActions.inputactions
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
+    m_SerializedLabels: []
   - m_GUID: a1d6f9c658616fc4c9ef8f5e45eef79b
     m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_21.asset
     m_ReadOnly: 0
@@ -1611,11 +1610,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
-  - m_GUID: 2ea7383a0a8af431080e0aa251ee7115
-    m_Address: Assets/Scenes/Town.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
   - m_GUID: b1f04182134f59140a02ee10e80a58b8
     m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_30.asset
     m_ReadOnly: 0
@@ -1726,8 +1720,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Scene
-  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
-    m_Address: Assets/Scenes/Enter.unity
+  - m_GUID: 6f7f323fbafea47d6b437a00d0d10d3d
+    m_Address: Assets/Scenes/Tutorial/BlankScene.unity
     m_ReadOnly: 0
     m_SerializedLabels:
     - Scene
