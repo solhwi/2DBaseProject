@@ -486,32 +486,32 @@ MonoBehaviour:
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 790b7581e96414cc79e8825e299f24a0
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_13.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_13.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 01e4ecb15d7fe014f96af07e2be21ede
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_1.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 4480d64c3c44544aa9a759bc889d2edd
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/NPC/Chicken-Idle.anim
+    m_Address: Assets/Bundles/Animations/Characters/NPC/Chicken-Idle.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 9333b30954a22cf4cb7c2d47f226132b
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_5.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 5b1834ec8bad8404d859e5301c7a475d
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/House_9.asset
+    m_Address: Assets/Bundles/Art/Tiles/House_9.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 32e31e4fe49e615408e92d3021da3e94
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_18.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_18.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -521,17 +521,17 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: 0b28bc885bfce48d6bff8900da845cb0
-    m_Address: Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 4.prefab
+    m_Address: Assets/Bundles/Prefabs/Gameplay Prefabs/Decorations/Bush 4.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
   - m_GUID: 53262df2b72a7b8448391824f2fa80ce
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_4.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: a2d2992690622ea449a837c672b114c9
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesRockCliff/RockCliff_1.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesRockCliff/RockCliff_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -541,97 +541,97 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: 88a229bcb49b14276b7179f46cec694d
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Line Brush.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Line Brush.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 94679678085550f4ab8e2c8b67434d93
-    m_Address: Assets/Creator Kit - RPG/Art/Sprites/Environment/Materials/HouseRoof.mat
+    m_Address: Assets/Bundles/Art/Sprites/Environment/Materials/HouseRoof.mat
     m_ReadOnly: 0
     m_SerializedLabels:
     - Material
   - m_GUID: 0b61a0a78d8d27940bcc5a1c826c60d1
-    m_Address: Assets/Creator Kit - RPG/Art/Sprites/Environment/Materials/House.mat
+    m_Address: Assets/Bundles/Art/Sprites/Environment/Materials/House.mat
     m_ReadOnly: 0
     m_SerializedLabels:
     - Material
   - m_GUID: 8f91612762ba7dc4494d9ea342270168
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassToDesert_0.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassToDesert_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 8ad10cb7675ea2c428b99404938e3215
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Grass_5.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Grass_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 4ca9604554bc54f608984cba5088222e
-    m_Address: Assets/Creator Kit - RPG/Prefabs/HouseRoof.prefab
+    m_Address: Assets/Bundles/Prefabs/Gameplay Prefabs/Tutorial/HouseRoof.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
   - m_GUID: 68679eca6a9ea734897a251e96887237
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterAnimated/Water_Bottom.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterAnimated/Water_Bottom.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 4c0813a59f775724a8cd07ac780b3a70
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_5.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 40fdc00ccf0324477a364b41a9ce26df
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_11.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_11.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 060c5795efb72534e9eed64c74d28ca9
-    m_Address: Assets/Creator Kit - RPG/Art/Sprites/Environment/Materials/Cloud.mat
+    m_Address: Assets/Bundles/Art/Sprites/Environment/Materials/Cloud.mat
     m_ReadOnly: 0
     m_SerializedLabels:
     - Material
   - m_GUID: 72d908e6d007f4cc3ab44a37b227cf64
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Warrior/Warrior-Idle.anim
+    m_Address: Assets/Bundles/Animations/Characters/Warrior/Warrior-Idle.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 4bc1be062a87a8148beaaf912549270f
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_23.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_23.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 1f5268949291cb8469782134b597f698
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertToGrass_1.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertToGrass_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: c9abf8d0de8be43409535e3406b8a3b1
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassVariant_5.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassVariant_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 7efb2f7d5a06eb44cb93811999d81ffc
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_0.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 41be42fd76445a247918e2bdd0c76c86
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Desert_7.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Desert_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 73df5df9dcb9a4bc4b85b759554c0d4e
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_20.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_20.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 4d6bc847403394c328ca695ffeb4a209
-    m_Address: Assets/Creator Kit - RPG/Prefabs/HouseChimney.prefab
+    m_Address: Assets/Bundles/Prefabs/Gameplay Prefabs/Tutorial/HouseChimney.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
   - m_GUID: d6086bb9a0b1347dca8a70203f255ceb
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Warrior/Warrior-Walk-S.anim
+    m_Address: Assets/Bundles/Animations/Characters/Warrior/Warrior-Walk-S.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
@@ -641,157 +641,157 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: d122618343d6bef4d8c6172d38c7e959
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Grass_2.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Grass_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 8e4dc914f7942ad41b19117ad4dcc0b5
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_1.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 4988ca5540e2046bfb41a699f07580e7
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_12.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_12.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: da1b9a3b73e3e41d48c5657049496a0b
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_26.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_26.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 5f11ab3908a8bc3489f237582adaef15
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Grass_4.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Grass_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 9d69f76605d0aae4bb9294e1d9baa57a
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_6.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_6.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 98b41a52ef69e71449022cb1c5339736
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassVariant_4.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassVariant_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 93751ebe5ddd18d4d900477e628ad3d7
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_LowRight.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_LowRight.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 3717692a9313db845ad75f5412cef530
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassIntersections_5.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassIntersections_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 47fc1172d74b61f49b9ef2fc824bca98
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassToDesert_8.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassToDesert_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 606dbbe833fc4514a90eb008f21746a8
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertToGrass_2.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertToGrass_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 3ff0b783e2fdf4977b5b4b0982aef416
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_2.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 4cbdc7d6ba097b44581508371de29a1f
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_Low.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_Low.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 04a37e4f43d9187409fb8cfe0e2b2d9a
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_0.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: e7efdc69657e9484aa970009c9506a2c
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_14.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_14.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 83932b919b40628459b112fb8ed03a50
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_LowLeft.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_LowLeft.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: ce08e3a0200b3422f80e536499af4cff
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Archer/Archer-Walk-W.anim
+    m_Address: Assets/Bundles/Animations/Characters/Archer/Archer-Walk-W.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 8df5494207a769846b30b4825024028e
-    m_Address: Assets/Creator Kit - RPG/Art/Animators/Villager01.controller
+    m_Address: Assets/Bundles/Animators/Villager01.controller
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 21d632a62c1fb4f5c86275cbd9911b9a
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_5.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 1b18bd797330a1149ac0c56462e3a5dc
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassIntersections_1.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassIntersections_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 227e5edaa69fef1418dfe8c5451214f5
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesRockCliff/RockCliff_0.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesRockCliff/RockCliff_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 2c02709d7d3200144bac4dbfc1c52b78
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_12.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_12.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: ca8020a2c5611a74dbb23618205c716d
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_Mid.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_Mid.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 0f055191d9633dd4c82edd6c0054678f
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterCornersAnimated/WaterCorner_BottomRight.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterCornersAnimated/WaterCorner_BottomRight.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: ec6e4703f5dd402409700e53961d9326
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassIntersections_6.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassIntersections_6.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: d0c90529228ee4ff3a949f80e4f4a816
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_21.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_21.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 9cfc23e1a92d54df288065697ba3e2f9
-    m_Address: Assets/Creator Kit - RPG/Prefabs/Grid.prefab
+    m_Address: Assets/Bundles/Prefabs/Gameplay Prefabs/Tutorial/Grid.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
   - m_GUID: 98611ff7dd44b4279ab0d95cd2004609
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Warrior/Warrior-Walk-N.anim
+    m_Address: Assets/Bundles/Animations/Characters/Warrior/Warrior-Walk-N.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 4bc4ce7c4271cfe4a9a8f6287818af2e
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Grass_3.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Grass_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: e016b131819e0a5489be6708501eece6
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_Top.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_Top.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: f9772c5c820f805478080b2679d15ca8
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_13.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_13.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -801,47 +801,47 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: de22928678bfc43daa98dc483fcaa694
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Base/Player-Talk.anim
+    m_Address: Assets/Bundles/Animations/Characters/Base/Player-Talk.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 13dcf6dcf8e0f442e95d8714dcc4ba15
-    m_Address: Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 0.prefab
+    m_Address: Assets/Bundles/Prefabs/Gameplay Prefabs/Decorations/Bush 0.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
   - m_GUID: 52ba45bbfd71c7e4192a2974be4ca3d4
-    m_Address: Assets/Creator Kit - RPG/Art/Animators/Leaves.controller
+    m_Address: Assets/Bundles/Animators/Leaves.controller
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: cc0ee69062dcc4267b770e1c2cf0a819
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_8.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 3e1d536792368ba418f98f1c4fb9734a
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesRockCliff/RockCliff_3.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesRockCliff/RockCliff_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 0da5b2ef3a8a84bec9f61767acc78f88
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/NPC/Grandpa-Idle.anim
+    m_Address: Assets/Bundles/Animations/Characters/NPC/Grandpa-Idle.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 4e24a674490620c4eb878a731a865d91
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Desert_0.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Desert_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: de6d4cbab9ca8794486ecc1411cc9aee
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassIntersections_3.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassIntersections_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 78b0cb4e52c2f4b4aaee06b8c5c37d47
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassVariant_7.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassVariant_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -851,112 +851,112 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: 765662f38a52a29489b377d9f6a545e3
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_2.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: f2da840a2c0b2c048a42905ebbc1e1e8
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertToGrass_7.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertToGrass_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 982a0026d07ad1845a66c24b3f14026c
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassToDesert_6.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassToDesert_6.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: a11ba5d48cad7b748905577cfc84d90b
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_15.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_15.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 5b3257d3114694e42b3b839c0dbb9720
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_0.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 544998164e2e69d46b6e978517fc9849
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_11.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_11.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 315b57448f3197146bbec5de4f805099
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_8.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: fabd1e77ff063724ba794664a9f6ef2a
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_17.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_17.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: a5bc2c8e30c5f2b498bf982c0fcd580f
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Desert_1.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Desert_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 613d277ff624a4e4fb71911f91ab53c8
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterCornersAnimated/WaterCorner_TopRight.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterCornersAnimated/WaterCorner_TopRight.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 2be65756f3b6ded48b8db2d597f59ae1
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_3.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: a22a3e1c2d01dff49aa48a919e2552c1
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_7.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: f4fd63a1d8de55044957f1a5023e3c98
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/Pipeline Tile/Tiles_stoneWalkPath_Animated.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/Pipeline Tile/Tiles_stoneWalkPath_Animated.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 202f3e0ceb662494f8a83201d709cd3f
-    m_Address: Assets/Creator Kit - RPG/Art/Sprites/Environment/Materials/Cloud2.mat
+    m_Address: Assets/Bundles/Art/Sprites/Environment/Materials/Cloud2.mat
     m_ReadOnly: 0
     m_SerializedLabels:
     - Material
   - m_GUID: 24f698c0525041a46af65d3686ca6f6d
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_3.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 36199b8e45c86e1469192bd8bfada664
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertToGrass_8.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertToGrass_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: bd7e98490ec945b4bb24bc1956d51d8a
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_16.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_16.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 71ba34d6d86b0486daec9d252186e8f3
-    m_Address: Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 1.prefab
+    m_Address: Assets/Bundles/Prefabs/Gameplay Prefabs/Decorations/Bush 1.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
   - m_GUID: 4b355fcf484524e68966d3335db4601d
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Archer/Archer-Walk-S.anim
+    m_Address: Assets/Bundles/Animations/Characters/Archer/Archer-Walk-S.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 854fa2a33263d4e428cd0242d7ad2dd2
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_25.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_25.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: e8317418c1d7b834fbc362fff9b34af0
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassToDesert_1.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassToDesert_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: e4b7a04346260b24b987e197856cb49d
-    m_Address: Assets/Creator Kit - RPG/Art/Animators/Villager02.controller
+    m_Address: Assets/Bundles/Animators/Villager02.controller
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
@@ -966,37 +966,37 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: 33fd426a38eadf747b4c5d703fd402aa
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Grass_7.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Grass_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: bf4b827a00439fa4eb2ef36369f6158d
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Desert_6.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Desert_6.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 14094af5889f615408ade3ec7a7f69b6
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_3.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: e3da2ba029d464b1ca89a64aed141fbc
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Base/Player-Walk-E.anim
+    m_Address: Assets/Bundles/Animations/Characters/Base/Player-Walk-E.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 6f7f323fbafea47d6b437a00d0d10d3d
-    m_Address: Assets/Creator Kit - RPG/Scenes/BlankScene.unity
+    m_Address: Assets/Scenes/Tutorial/BlankScene.unity
     m_ReadOnly: 0
     m_SerializedLabels:
     - Scene
   - m_GUID: a1d6f9c658616fc4c9ef8f5e45eef79b
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_21.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_21.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 85df1f0c19358184e935230c86b605a0
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassVariant_8.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassVariant_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -1006,37 +1006,37 @@ MonoBehaviour:
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 0a6471337a5a8624bb939f7def02bc1e
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesRockCliff/RockCliff_4.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesRockCliff/RockCliff_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: b077b06663105a2468d1e0dff159a2a3
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassIntersections_7.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassIntersections_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: a88af37fcc621c64d89235543770dff1
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertIntersections_5.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertIntersections_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 795b4774b6a587847a6b5c03b75ebdda
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertToGrass_4.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertToGrass_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 1313c5891d378b74c9e417a146b6fb93
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertIntersections_7.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertIntersections_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 2140f8fd7e913cc40b70b089d3c39301
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_14.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_14.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 55fd3c9980d9e9445a8703408f63eca6
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_10.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_10.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -1051,112 +1051,112 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: 9f269826e1dc8fe4289ce43d8a20ed5d
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_6.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_6.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 48fc4e533ab75514085176217bb68b21
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_2.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 8ad5c786eb7b149c09ecc04090b5087d
-    m_Address: Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 3.prefab
+    m_Address: Assets/Bundles/Prefabs/Gameplay Prefabs/Decorations/Bush 3.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
   - m_GUID: a3309fed9bdb27046b0c97fb03afa313
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_MidLeft.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_MidLeft.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 298801bad5cd15d46ada3be7ebcbabba
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_4.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: efac06dd2ef096d418d71b9d51ffb1ea
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_20.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_20.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 46e726b023c0ceb48856572e1044a4a4
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesRockCliff/RockCliff_2.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesRockCliff/RockCliff_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 1e46689c880cdd34389fea31359f44b4
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_5.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: eb8a5031d252d074e95433e80efe090c
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertIntersections_8.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertIntersections_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: cf8644a07dc5df94facb29dd9ba871ab
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_9.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_9.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 9270867faf025498685a9a720cb40e1e
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_4.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 32bbdf8db629c6a46952a762b6b39c06
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Grass_8.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Grass_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 51640359f3a4749f89d70aa3b40b0d23
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_3.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: cf2e97ca6d281cb4cadfee46620f3013
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_5.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 4133b62a9bfe7234d9b3f036a5280fc6
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterAnimated/Water_Top.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterAnimated/Water_Top.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 66a9d607713234dcdad67f06eef62205
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles.prefab
+    m_Address: Assets/Bundles/Art/Tiles/Tiles.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
   - m_GUID: 58ae46f47a32f48818ca942f9646adc5
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Warrior/Warrior-Walk-W.anim
+    m_Address: Assets/Bundles/Animations/Characters/Warrior/Warrior-Walk-W.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 07e603930f95dcf4481eab023b3de42d
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassToDesert_7.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassToDesert_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 62a322a6ab8d5724ab9bbc1a8789410c
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertIntersections_1.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertIntersections_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: b288a0518e927094c8f439eb58cac309
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassToDesert_2.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassToDesert_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 13d3f1ed8ae689c4685f96ccc99991c7
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassToDesert_3.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassToDesert_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: aef04ea75ddb70946a81d06e1057fc67
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_4.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -1166,12 +1166,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: 19629882916d78a4ba5a69977ec42d74
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertIntersections_4.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertIntersections_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 79e4d8bd6eff35e4eb702e7dd94f2303
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterAnimated/Water_BottomLeft.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterAnimated/Water_BottomLeft.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -1181,72 +1181,72 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: cabff4e9298b53941b913ca4da2eaa84
-    m_Address: Assets/Creator Kit - RPG/Art/Animators/Smoke.controller
+    m_Address: Assets/Bundles/Animators/Smoke.controller
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 275c7dfc49d5e5c42b85c4145a519730
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_19.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_19.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: ded1ac682c89044339fd91186fb32457
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Base/Player-Idle.anim
+    m_Address: Assets/Bundles/Animations/Characters/Base/Player-Idle.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 6198faa2b044d3b4caa6477a4da3f57b
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_7.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: e91c00a52e43b5d44bffa903886d28b7
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_8.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: d29521fda3e850443a35a2db56ead2fc
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_31.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_31.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: ae4380efad0bc4f1f9b1257ad916749e
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Archer/Archer-Talk.anim
+    m_Address: Assets/Bundles/Animations/Characters/Archer/Archer-Talk.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: b11e33b55ae129f4c92d1465f66e92cb
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_26.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_26.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 7b0c2a38d81cc7048b2cc925cdebaa46
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Grass_6.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Grass_6.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 3efb6e5114a4a4a40b8096fc4aa62ce6
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Desert_8.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Desert_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: e6183a22238c5be439c20cdb7eacfe04
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_0.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: f3c6c8b331a9fe841bd017599e8ed660
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_TopLeft.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_TopLeft.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 07ea74f3206362b4d99bc7c9c0870c11
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassToDesert_5.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassToDesert_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 51d0d8eb656544ca7b66cf47c7b0056b
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_19.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_19.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -1256,157 +1256,157 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: 15ecb4ff973c75a4986ac4ce09fbba94
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassIntersections_4.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassIntersections_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: fec15ec5d11148d438ac08460ede931d
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Desert_3.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Desert_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 39db9418cc9e4284abb2347a27ec682a
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_27.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_27.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: a024edde323075d478cbb329f526d88a
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterAnimated/Water_TopRight.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterAnimated/Water_TopRight.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: eda02a6c6de1d4cb1b915e96b0eaae17
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_1.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 80d3b46a84ea512489f62807d6d4c2eb
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassIntersections_2.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassIntersections_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 84daf7cf8603a4b54aa63b88c84d27cc
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_25.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_25.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 342e493c5fcb7e3458b26006b2af7ff7
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Grass_1.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Grass_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 3978bface3e374a91b3f9ff70d5eabe8
-    m_Address: Assets/Creator Kit - RPG/Art/Animators/Character.controller
+    m_Address: Assets/Bundles/Animators/Character.controller
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 2c1c3fa13f9a0bf45ac895f2eec30036
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassIntersections_8.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassIntersections_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: f3ca2822f2b038f458dc5d8e6d48d4bf
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Desert_5.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Desert_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 132b6c5a2026d434282ed96640dcc3e7
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/NPC/Grandma-Idle.anim
+    m_Address: Assets/Bundles/Animations/Characters/NPC/Grandma-Idle.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 7b9ed59164c678b4f8cdc5b1e3aac796
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_1.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: c559fce4f820d4c6887c295d0fac2935
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Thief/Thief-Idle.anim
+    m_Address: Assets/Bundles/Animations/Characters/Thief/Thief-Idle.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: d27892de92757c3489073bcdb33164e1
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertToGrass_5.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertToGrass_5.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 68e874c2966d7f940bfd5bce02d641cc
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassIntersections_0.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassIntersections_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 391b9ce51bc38e347a5dd229c5ef6c25
-    m_Address: Assets/Creator Kit - RPG/Art/Animators/Chicken.controller
+    m_Address: Assets/Bundles/Animators/Chicken.controller
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 39174cad28302464280f4a08110aafbc
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_6.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_6.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: aa5b7616f9b105449b3d31079c586c0c
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_1.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_1.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: bb05a137f5cbc9c40bafc7baa75c1fbe
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertIntersections_3.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertIntersections_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: a86c62b6fab4c034cbf1a4c3640a6976
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterAnimated/Water_MidRight.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterAnimated/Water_MidRight.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: e129413db05d94ad28811d643da04b02
-    m_Address: Assets/Creator Kit - RPG/Materials/Sprites.mat
+    m_Address: Assets/Bundles/Materials/Sprites.mat
     m_ReadOnly: 0
     m_SerializedLabels:
     - Material
   - m_GUID: ba139b8176ffc426bb00fbe377dd704a
-    m_Address: Assets/Creator Kit - RPG/Gameplay Prefabs/Decorations/Bush 2.prefab
+    m_Address: Assets/Bundles/Prefabs/Gameplay Prefabs/Decorations/Bush 2.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
   - m_GUID: f67df1d573866ec43b2108fc6bc69c40
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_24.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_24.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 2310ce13012c17343949c267b9b9e558
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Desert_2.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Desert_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 58a567bc9936e4c4dbd7fbd8335054ba
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterCornersAnimated/WaterCorner_TopLeft.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterCornersAnimated/WaterCorner_TopLeft.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: e903197964f41c04dab036730b651fab
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertToGrass_6.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertToGrass_6.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: eff74f5df34bd6347a7657a19e0f045b
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_2.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 20f7bf108b9444fdab79034eebf2b0a6
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_10.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_10.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: afa977811d76cbf44b37fbae2c1502f2
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_8.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: ef43005785d97004e9d01dd53d977b80
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_0.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -1416,137 +1416,137 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: 57b3b2f576fa24162bdaddce6650f36f
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Thief/Thief-Walk-W.anim
+    m_Address: Assets/Bundles/Animations/Characters/Thief/Thief-Walk-W.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 7a6e26891790fbf44b87eea135a9367e
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertToGrass_3.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertToGrass_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 9e1a5bff0887f4e42bf12445fa2f1992
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_22.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_22.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 6963cb5656575eb49941f862473982c5
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterAnimated/Water_TopLeft.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterAnimated/Water_TopLeft.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: b7af6277eff44f646b4abfab96103e38
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertIntersections_6.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertIntersections_6.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: ff7b56806b6754305b91acdb5407c370
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Thief/Thief-Walk-S.anim
+    m_Address: Assets/Bundles/Animations/Characters/Thief/Thief-Walk-S.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 4abc55129667a4d38a55f0bc13862f06
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Archer/Archer-Idle.anim
+    m_Address: Assets/Bundles/Animations/Characters/Archer/Archer-Idle.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 7212dcdc11ce0ca4c9279fa31f85b32c
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertIntersections_0.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertIntersections_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 0bc281edaa3184ba8b57a35c2c5166fe
-    m_Address: Assets/Creator Kit - RPG/Materials/Cutscene.mat
+    m_Address: Assets/Bundles/Materials/Cutscene.mat
     m_ReadOnly: 0
     m_SerializedLabels:
     - Material
   - m_GUID: b79191cff7a4f1d4086967ae25047dbb
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_28.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_28.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 5d65eb95ee2c04058adb3baac5488106
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_9.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_9.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 3a320c147de5e604ca835bf759866a55
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertIntersections_2.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertIntersections_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: c08f69f89c8264e79af0d4450d5da550
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_24.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_24.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: ae3ce1ef0dbdc9f48ad14a2e6732cd56
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_7.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: cc95aea81fd3446f6b3aedc65299beb0
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_16.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_16.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 63f5d861b5822df4898e53fee1cba4e7
-    m_Address: Assets/Creator Kit - RPG/Art/Sprites/UI/Materials/DialogueBar.mat
+    m_Address: Assets/Bundles/Art/Sprites/UI/Materials/DialogueBar.mat
     m_ReadOnly: 0
     m_SerializedLabels:
     - Material
   - m_GUID: f834ebcc4a80e7542b74a43f095561a0
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterCornersAnimated/WaterCorner_BottomLeft.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterCornersAnimated/WaterCorner_BottomLeft.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 1121f664e90804500be48b8c47aaa43e
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/Pipeline Tile/Tiles_Fence_Pipeline.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/Pipeline Tile/Tiles_Fence_Pipeline.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 3671cfb5fed740d45b83f09576b62db7
-    m_Address: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Materials/water.mat
+    m_Address: Assets/Bundles/Art/Sprites/Animated Environment/Materials/water.mat
     m_ReadOnly: 0
     m_SerializedLabels:
     - Material
   - m_GUID: ba5b06d36d745ad49b9842d44324b1d1
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_DesertToGrass_0.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_DesertToGrass_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 95d91b069d3eba44abc86ac87c8a411c
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_22.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_22.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 4e1376bd0d1e5c443b5f117344b9e89b
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/Pipeline Tile/Tiles_WalkPath_Pipeline.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/Pipeline Tile/Tiles_WalkPath_Pipeline.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 845ac0759fa7e3947a854bce46b8a2b4
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_2.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_2.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 07d4b351a500dbd4cbcf60174fbd6663
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_8.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_Grass_8.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: bdeebd9be0c964a62ae1384060719ae2
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_15.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_15.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: bcf9c4e6f17954f98b881c9ecf7283a2
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Warrior/Warrior-Talk.anim
+    m_Address: Assets/Bundles/Animations/Characters/Warrior/Warrior-Talk.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 7bdd8853597a844999dc7cc451ac45b9
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_7.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -1561,18 +1561,18 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: e400a0b2660d36744af875a6ef93432a
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_MidRight.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_MidRight.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 358e783f7c908e844b7039f884f9af6b
-    m_Address: Assets/Creator Kit - RPG/Art/Sprites/Animated Environment/Materials/animated
+    m_Address: Assets/Bundles/Art/Sprites/Animated Environment/Materials/animated
       tree.mat
     m_ReadOnly: 0
     m_SerializedLabels:
     - Material
   - m_GUID: 239cddbc0f5a67f4fa92e6d532e324d2
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Grass_0.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Grass_0.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -1582,32 +1582,32 @@ MonoBehaviour:
     m_SerializedLabels:
     - Prefab
   - m_GUID: 38b425a2657a24b13a667eb3425dbcc1
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Base/Player-Walk-S.anim
+    m_Address: Assets/Bundles/Animations/Characters/Base/Player-Walk-S.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 8d9e5ee92a6bccc4892e3ebb23cc4766
-    m_Address: Assets/Creator Kit - RPG/Prefabs/HouseOpenDoor.prefab
+    m_Address: Assets/Bundles/Prefabs/Gameplay Prefabs/Tutorial/HouseOpenDoor.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
   - m_GUID: da3e77f259a30469881d0d3e099592bd
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_17.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_17.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 9aeabefb987264c10963b8e1880e11cc
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Base/Player-Walk-W.anim
+    m_Address: Assets/Bundles/Animations/Characters/Base/Player-Walk-W.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: c93bc1194c624464284232707f23d505
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_6.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_6.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: d377c9c5cc7e8448e9087960e6c26aec
-    m_Address: Assets/Creator Kit - RPG/Gameplay Prefabs/Environment/Leaves.prefab
+    m_Address: Assets/Bundles/Prefabs/Gameplay Prefabs/Environment/Leaves.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
@@ -1617,107 +1617,107 @@ MonoBehaviour:
     m_SerializedLabels:
     - Scene
   - m_GUID: b1f04182134f59140a02ee10e80a58b8
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_30.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_30.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 861262ce7f7f4514f8c33dff809ea4ac
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesHouse/House_29.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesHouse/House_29.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: eb99041ba7bfecd4aa8cd60dab66510d
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterAnimated/Water_MidLeft.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterAnimated/Water_MidLeft.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 66224a90294984b609c9fd9e494e930a
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_23.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_23.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: e36b1ed7430e3384995e4ef5cefee8a0
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Environment/AnimatedSmoke.anim
+    m_Address: Assets/Bundles/Animations/Environment/AnimatedSmoke.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 85c8fbdafe914498c9c2f4f6ed13a98e
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Thief/Thief-Talk.anim
+    m_Address: Assets/Bundles/Animations/Characters/Thief/Thief-Talk.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 781fb24ab88294fc09fcf363c308d2e7
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_18.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_18.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: a6ecdc63374074e6eb42a738a5683a91
-    m_Address: Assets/Creator Kit - RPG/Prefabs/Tilemaps.prefab
+    m_Address: Assets/Bundles/Prefabs/Gameplay Prefabs/Tutorial/Tilemaps.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
   - m_GUID: e418889d7eb2bae44a56c717711d6f19
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_GrassToDesert_4.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_GrassToDesert_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 92891f3c9abd44e7da48c3afc5bc679f
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Thief/Thief-Walk-N.anim
+    m_Address: Assets/Bundles/Animations/Characters/Thief/Thief-Walk-N.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 52de7f84af3b5f946a58e36df7b76e2c
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/Tiles_Desert_4.asset
+    m_Address: Assets/Bundles/Art/Tiles/Tiles_Desert_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 6c1eb00787719134986833597b09e5e8
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterAnimated/Water_Mid.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterAnimated/Water_Mid.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 2c2aa6681cfbc774982dda21eac9e603
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_7.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_7.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: d435df89d862a334e9f0a95069d9f986
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/WaterAnimated/Water_BottomRight.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/WaterAnimated/Water_BottomRight.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 15cae95d8901341a1a8ebebc2fca9e82
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_6.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_6.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 9c21ea9b0e2a148f1afdc8f9da209895
-    m_Address: Assets/Creator Kit - RPG/Art/Tiles/treesv6_0_27.asset
+    m_Address: Assets/Bundles/Art/Tiles/treesv6_0_27.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: 578a9e1697e6b46d3883108bb33a9a7d
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Archer/Archer-Walk-N.anim
+    m_Address: Assets/Bundles/Animations/Characters/Archer/Archer-Walk-N.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: 0c334e15295830b4bb94e5a15f41f268
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_3.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassDark_3.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: bdaef41593b794d0a8f7643ca148e9cf
-    m_Address: Assets/Creator Kit - RPG/Art/Animations/Characters/Base/Player-Walk-N.anim
+    m_Address: Assets/Bundles/Animations/Characters/Base/Player-Walk-N.anim
     m_ReadOnly: 0
     m_SerializedLabels:
     - Animation
   - m_GUID: c7d496a947528e541a753ab03052c062
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_TopRight.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/HighGrassAnimated/HighGrass_TopRight.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
   - m_GUID: cc367ba8ab3a1014bb2dfcad091a72e2
-    m_Address: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_4.asset
+    m_Address: Assets/Bundles/Art/TileMapPalettes/Tileset/TilesGrass/Tiles_GrassToDesert_4.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
@@ -1726,363 +1726,19 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Scene
-  - m_GUID: de6b3d1666741b24597a4349a143eeb7
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/Materials/SpaceshipHull.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: f773d1fa10a4f4e0d88490eab5d5b46d
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Prefabs/Demo
-      Intro UI.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: b34ebdee5d4d60b43baa8cb211b29444
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
-      Kit/Models/Materials/grey.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 4c506c95d32f3494e9453ef5c0124b0e
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Materials/UnitTextureRed.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 03c5e15309335324fba99d68e38cb08b
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Prefabs/RoomListEntry.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 395d3cc3d7cf0014a870fee72cbd3490
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Prefabs/UI/Button
-      Regular.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: cdcec2345c1d1af4da10b1c5d9cbff65
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/insides_3.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 87d5aa043215a47cba8b74ae3490a936
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Prefabs/UI/Tooltip.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: b7fe671fa5d4d4772a4b20715fb9b0ff
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Prefabs/Game
-      Manager.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 294f02eac9561704ebe4baa5b1bc4163
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/Materials/FlyerAsteroid1.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 9d6d60c803e244e51ba945a84b88757d
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/PunCockpit-Scene.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: c676d877ef241ab4686e2f237b1e2f13
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Materials/UnitTextureBlue12x.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: d68bf8413681d9b4aa7328277e632e3f
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Prefabs/PlayerListEntry.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 764428c63577f4580af4ce54ca9f4b1b
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
-      for 2.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: db1318ffb13bfef419a8dad09473425d
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/windows_2.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 5624ee9da9d10514ea7b808e83979c85
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Prefabs/Bullet.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: ad7ce727a68a61f4897679b81da7b344
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Materials/Red.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 8c13ddd2bc8fa4e85943376cf7c8bf7d
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Materials/UnitTextureGreen12x.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 192c18d73e55e466d89edd9bc2ab936d
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Prefabs/Tab Toggle.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: cf998ac0cf60141c597aecb3a8ffad74
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Prefabs/Help
-      Button.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 6fe15af0e28a31a43bf683296709c6b0
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/leaves_palm_243.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 4e1a4e79a3548164da24123dbb0f3566
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/20 - Default.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 3f171282ef46c4fbea54d9ab581fcb83
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Materials/UnitTextureRed12x.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 1401c9e6acd739e49a9caa91ab07ac7a
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Materials/UnitTextureBlue.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 968fc57e6928a5448ae7d0644246d534
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Materials/FlyerAsteroid.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
   - m_GUID: 775dd0a15ad25a544b33ad40ef0da1f0
     m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Resources/Spaceship.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
-  - m_GUID: 1b222757b9e3844209748206173481c3
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Animator/Kyle
-      Robot.controller
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Animation
-  - m_GUID: 1598ff147655ecb4893e78f88baa9475
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Materials/Black.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
   - m_GUID: fe764102aa5aa431795da15fa2dec0e2
     m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Resources/My
       Robot Kyle -done-.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
-  - m_GUID: ed4e4079e2e99084d8d914283565fc5c
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/Materials/SuitMaterial.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: f03d1c686a26a1d4da99a4186b0bb1ab
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Prefabs/PlayerOverviewEntry.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: ceba02e8dfaf34474b36fe43b51b69db
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Materials/UnitTextureYellow12x.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: dc1a05fba9a6af241a25a35b4caf5e27
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Materials/ParticleAfterburner.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: ec07267f6a28fb044ac89845274e79af
-    m_Address: Assets/Photon/PhotonChat/Demos/DemoChat/DemoChat-Scene.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: 90623549d4482f042ade35d8a0758e35
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Materials/Yellow.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 37d0d4d178b5dbf449ff0814718dc354
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/Materials/SkinMaterial.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 9b8561c6e396849a5ba48c3eb9524049
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
-      for 1.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: 28498b9ebcb776a46b3c9479a664bfc7
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/Materials/TongueMaterial.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: a73b0cac1a73cc346aaeb5f8dd0b53f1
-    m_Address: Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/DemoLoadBalancing-Scene.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: e2cf68ff4b1ffda45a77f7307dd789b9
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animator/ThirdPersonAnimatorController.controller
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Animation
-  - m_GUID: cceec12884c418c4bb19cef32dc2abc1
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
-      Kit/Models/Materials/tankco.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: e7a7f9734636d415ca84ef3aaf7680f6
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
-      for 4.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: b5e9e0cb388c83440adfb6c0c023ee8b
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
-      Kit/Models/Materials/wall.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: a773bd7a075f9534e9c9ed1eb6e9a30f
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/No Name.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 831e4ea6beda02947bdca5aeb8543156
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/13 - Default54.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 82b2227f60269dd46b9a921faca9dc1f
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Prefabs/UI/Toggle
-      Regular.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 09adc4af150569a4cb996354c367b8c8
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Materials/Orange.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 9c6977a9ecda14e4e96ea3a71c749c2c
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Prefabs/PointerPrefab.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 0d79812c7a78bb641b1ee85ce7da18c1
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
-      Kit/Models/Materials/red.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: be2c382f522695c4fa3947ac8e1d4457
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/Materials/Asteroid.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 4910a004464ca4efa808af20d2eb1e15
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Prefabs/SlotCar_A.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 98efc37d6307844488eb3e4247dde7e9
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scenes/DemoAsteroids-GameScene.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: 7c8e0d280c24c4aba81a4294e87548ec
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/SlotCar-Scene/LightingData.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - UnityAsset
-  - m_GUID: ce5a83fcea7762541ba43ca5bd854dae
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/Materials/EyesMaterial.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 711b38c07f2cf904f81b3422c67f1825
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/SlotCar-Scene.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: b05171e12835ff84fb155f51d69d7c31
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Materials/WhiteSmooth.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: e07afcca5bf1a41f5bd28f498656b7b8
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
-      for 3.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: b957742c5b9bfd441b9b330c8b55d0c5
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/13 - Default.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: fef45cc204351a9458f02ad7c0243f18
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/ground_green.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
   - m_GUID: 15f43343ba0a60e47a63d28496373c3f
     m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Resources/BigAsteroid.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 0aa851515cd3747d6b3b3e461199a2ed
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Materials/Robot_Color.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: c8a9d1312a49dc8488a9b32d83d659c7
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scenes/DemoAsteroids-LobbyScene.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: db16216c3f288ea4eb77dfefecada55a
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
-      Kit/Models/Materials/white.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: bff77b01b50254edbb6edeeaba5ae8b3
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Launcher.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: e1fad393017993c4893877b645062417
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Procedural-Scene.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: fd4000dd854ad0e40ba2a59fab94cad1
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/ground_green232.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 71e3000ee30414d368eeee6d87961b6d
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Prefabs/SlotCar_B.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
@@ -2091,164 +1747,9 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
-  - m_GUID: 86080a783905b5740ad2b81f63a2c650
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/22 - Default.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 409bf720e9924426b9f253cf037a8f4e
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Materials/Red
-      Beam.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 073b1ee561def20429e655b5c8893ad4
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Materials/WhiteUnlit.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: f0a6a86e908f6204ab518387a784ed36
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
-      Kit/Models/Materials/_defaultMat.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: c14837dfa515883428e5652d93e80c72
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/24 - Default.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 99fced4bc2985174cac8512dc765d2bc
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Materials/FlyerPlayership.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 609dbe3d30c4bf84ca15ce89479d7919
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/Materials/SpaceshipGlow.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 17dd34e8a826d0641a0e0f43da1e03a0
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/Materials/TeethMaterial.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 9cc3c2bbff5d71d45ab82bdd222f75c3
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/insides_2.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 7dfd47dc8b9484dd79d8636d8603a9e5
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoHub/DemoHub-Scene.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Scene
-  - m_GUID: 1fd2963e35ed24ba89705127fca0fba1
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Prefabs/SlotCar_C.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 32e7ed8e6b80b884bbed8260b788648b
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Materials/Gradient.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 80114bc117609cd4e9c988f8692e7a68
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Materials/UnitCircleTexture.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: b7d67d7d7ddb88542b23886a4b496c77
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/11 - Default.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: fb6c12085a6b0a5429029fcd6478a816
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Materials/UnitCircleMaterial.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 479cbf10a2ba803449168e0148bcdbb5
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/tank.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: b19bb80838bcf4457bf6f50a19c5593b
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Prefabs/Quit
-      Room Button.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: c190da5d14d0e904ba512abe82018576
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Skin/Jura-Flat-Material.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 4b56a40ac6992974b8aac0882a4c7555
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
-      Kit/Models/Materials/road.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
   - m_GUID: c9248d8e58293473bb27cf2f5505f88b
     m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Resources/Player
       Controller.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 7d91274cc4a876a439f75445704f421b
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/13 - Default22662.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: c597444fc6a08854d89baeeff4ba511d
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Materials/PlayerDiamond.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: cd644746d7159df42b0c206b559af881
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Materials/LightGreen.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: 5b3826dd21e1d2b4a947c774023d1db3
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
-      Kit/Models/Materials/bark.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: c282d31bf082fca4a822239b62ff8257
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/car.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: ba3bddb608259184783916ac7915d5a2
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
-      Kit/Models/Materials/grass.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: ede00b712b6fb134282e1efba44fefd8
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
-      city/Materials/roof.mat
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Material
-  - m_GUID: e41946a981c3b444a84d15eb7c608ca4
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Prefabs/Player
-      UI.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Prefab
-  - m_GUID: 9db296b8bb78143c1a5f7fa8f611967e
-    m_Address: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Prefabs/SlotCar_D.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Prefab
@@ -2257,6 +1758,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - UnityAsset
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: Assets/Scenes/Enter.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 2147ce2e9694e044ba90d4c69f542189, type: 2}
   m_SchemaSet:
